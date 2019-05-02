@@ -3,3 +3,5 @@ tahun ini harus menguasai :
 -nodejs
 -react
 -phyton
+-nilai ulangan yang bagus
+-lebih bisa membagi waktu
