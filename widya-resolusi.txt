@@ -1,0 +1,5 @@
+Resolusi-me
+tahun ini harus menguasai :
+-nodejs
+-react
+-phyton
